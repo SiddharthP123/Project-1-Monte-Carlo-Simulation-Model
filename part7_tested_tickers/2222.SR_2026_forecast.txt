@@ -1,0 +1,22 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT: 2222.SR 2026 FORECAST
+==========================================================
+Generated on: 2026-03-07 22:35:40
+
+Historical Market Context (2024-01-01 to 2025-12-31):
+- Terminal Price (St): $23.62
+- Realized Annual Drift (mu): -10.99%
+- Realized Annual Volatility (sigma): 13.25%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Price: $21.68
+- Probability of Gain: 20.0%
+- Highest Observed Outcome: $34.14
+- Lowest Observed Outcome: $16.63
+- Absolute Risk Range: $17.50
+==========================================================

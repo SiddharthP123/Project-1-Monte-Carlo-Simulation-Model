@@ -1,0 +1,22 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT: BTC-USD 2026 FORECAST
+==========================================================
+Generated on: 2026-03-07 22:39:43
+
+Historical Market Context (2024-01-01 to 2025-12-31):
+- Terminal Price (St): $88430.13
+- Realized Annual Drift (mu): 24.00%
+- Realized Annual Volatility (sigma): 39.72%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Price: $112166.41
+- Probability of Gain: 63.0%
+- Highest Observed Outcome: $281486.89
+- Lowest Observed Outcome: $27031.49
+- Absolute Risk Range: $254455.40
+==========================================================

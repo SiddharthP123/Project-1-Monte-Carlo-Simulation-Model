@@ -1,0 +1,27 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT - VXUS 2026 FORECAST:
+==========================================================
+Generated on: 2026-03-08 00:33:39
+
+Historical Market Context (2024-03-08 to 2026-03-08):
+- Current Share Price (St): $77.98
+- Realized Annual Drift (mu): 16.53%
+- Realized Annual Volatility (sigma): 14.64%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Share Price: $92.50
+- Probability of Gain: 89.0%
+- Max. End Share Price: $124.51
+- Min. End Share Price: $64.59
+
+Risk Management (95% Confidence):
+- Initial Capital Invested: $10,000.00
+- 95% Annnual VaR Price Level: $74.39
+- Projected Cash at Risk: $460.03
+- Min. Expected Investment Value: $9,539.97
+==========================================================

@@ -1,0 +1,22 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT: VXUS 2026 FORECAST
+==========================================================
+Generated on: 2026-03-07 22:37:59
+
+Historical Market Context (2024-01-01 to 2025-12-31):
+- Terminal Price (St): $75.76
+- Realized Annual Drift (mu): 17.41%
+- Realized Annual Volatility (sigma): 14.17%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Price: $89.45
+- Probability of Gain: 88.0%
+- Highest Observed Outcome: $133.37
+- Lowest Observed Outcome: $63.33
+- Absolute Risk Range: $70.04
+==========================================================

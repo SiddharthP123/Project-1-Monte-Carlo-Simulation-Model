@@ -1,0 +1,27 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT - BTC-USD 2026 FORECAST:
+==========================================================
+Generated on: 2026-03-08 00:34:12
+
+Historical Market Context (2024-03-08 to 2026-03-08):
+- Current Share Price (St): $68136.49
+- Realized Annual Drift (mu): -0.08%
+- Realized Annual Volatility (sigma): 40.61%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Share Price: $70722.84
+- Probability of Gain: 46.0%
+- Max. End Share Price: $160197.93
+- Min. End Share Price: $22195.03
+
+Risk Management (95% Confidence):
+- Initial Capital Invested: $10,000.00
+- 95% Annnual VaR Price Level: $32380.40
+- Projected Cash at Risk: $5,247.72
+- Min. Expected Investment Value: $4,752.28
+==========================================================

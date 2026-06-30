@@ -1,0 +1,22 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT: VOO 2026 FORECAST
+==========================================================
+Generated on: 2026-03-07 22:37:30
+
+Historical Market Context (2024-01-01 to 2025-12-31):
+- Terminal Price (St): $631.72
+- Realized Annual Drift (mu): 20.19%
+- Realized Annual Volatility (sigma): 15.76%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Price: $754.12
+- Probability of Gain: 85.0%
+- Highest Observed Outcome: $1093.41
+- Lowest Observed Outcome: $515.64
+- Absolute Risk Range: $577.77
+==========================================================

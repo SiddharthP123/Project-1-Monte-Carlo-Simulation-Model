@@ -1,0 +1,22 @@
+
+==========================================================
+MONTE CARLO SIMULATION REPORT: MSFT 2026 FORECAST
+==========================================================
+Generated on: 2026-03-07 22:34:49
+
+Historical Market Context (2024-01-01 to 2025-12-31):
+- Terminal Price (St): $486.37
+- Realized Annual Drift (mu): 14.53%
+- Realized Annual Volatility (sigma): 22.10%
+
+Simulation Parameters (2026):
+- Number of Scenarios: 100
+- Time Horizon: 1.0 Year (252 Trading Days)
+
+Quantitative Outcomes:
+- Expected End Price: $569.98
+- Probability of Gain: 71.0%
+- Highest Observed Outcome: $1071.12
+- Lowest Observed Outcome: $322.38
+- Absolute Risk Range: $748.75
+==========================================================

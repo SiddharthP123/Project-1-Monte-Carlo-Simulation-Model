@@ -1,0 +1,33 @@
+
+==========================================================
+MONTE CARLO + MERTON JUMP DIFFUSION REPORT: MSFT
+==========================================================
+Generated on: 2026-03-10 13:35:25
+
+Historical market context (2024-03-10 to 2026-03-10):
+- Current market share price (St): $409.41
+- Realised annual drift (mu): 1.38%
+- Realized annual volatility (sigma): 24.08%
+
+Simulation parameters (2026):
+- Number of scenarios: 100
+- Time horizon: 1.0 Year (252 trading days)
+
+MJD calibration (Black swan stress test):
+- Jump frequency (lambda): 1.0 events/year
+- Mean jump size (mu_j) - Avg. crash size/severity: -20.0%
+- Jump uncertainty (sigma_j) - Crash std. dev./variation: 5.0%
+- Drift correction (k): -0.1802
+
+Quantitative outcomes:
+- Expected end share price: $436.77
+- Probability of gain: 59.0%
+- Max. end share price: $845.73
+- Min. end share price: $185.30
+
+Risk management (95% confidence):
+- Initial capital invested: $100.00
+- 95% annnual VaR price level: $229.26
+- Projected cash at risk: $44.00
+- Min. expected investment value: $56.00
+==========================================================

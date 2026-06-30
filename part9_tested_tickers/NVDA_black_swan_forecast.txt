@@ -1,0 +1,33 @@
+
+==========================================================
+MONTE CARLO + MERTON JUMP DIFFUSION REPORT: NVDA
+==========================================================
+Generated on: 2026-03-10 13:36:17
+
+Historical market context (2024-03-10 to 2026-03-10):
+- Current market share price (St): $182.65
+- Realised annual drift (mu): 38.20%
+- Realized annual volatility (sigma): 49.62%
+
+Simulation parameters (2026):
+- Number of scenarios: 100
+- Time horizon: 1.0 Year (252 trading days)
+
+MJD calibration (Black swan stress test):
+- Jump frequency (lambda): 4.0 events/year
+- Mean jump size (mu_j) - Avg. crash size/severity: -60.0%
+- Jump uncertainty (sigma_j) - Crash std. dev./variation: 5.0%
+- Drift correction (k): -0.4505
+
+Quantitative outcomes:
+- Expected end share price: $313.04
+- Probability of gain: 52.0%
+- Max. end share price: $3251.82
+- Min. end share price: $7.78
+
+Risk management (95% confidence):
+- Initial capital invested: $1,000.00
+- 95% annnual VaR price level: $15.94
+- Projected cash at risk: $912.72
+- Min. expected investment value: $87.28
+==========================================================
