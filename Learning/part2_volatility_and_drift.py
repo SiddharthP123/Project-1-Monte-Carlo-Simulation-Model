@@ -17,7 +17,7 @@ import pandas as pd
 
 
 # --------------------------------------------------------------------------------------------------
-# RANDOOM PRICE GENERATION:
+# RANDOM PRICE GENERATION:
 
 # A: Create 252 days of "sample" closing prices for a stock. 252 trading days in a year.
 # We start at $100 and add some random daily noise (fluctuations to simulate price movements).
