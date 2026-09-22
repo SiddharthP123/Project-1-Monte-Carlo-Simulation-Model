@@ -1,3 +1,5 @@
+
+
 # Learning Python with Finance:
 ### A 10-Part Project: From Stock Returns to a Live Monte Carlo Web App.
 
@@ -5,9 +7,7 @@ This repository documents a progressive, self-taught journey applying Python to 
 
 **Live App (Part 10):** [project-1-monte-carlo-simulation-model-siddharth-premanand.streamlit.app](https://project-1-monte-carlo-simulation-model-siddharth-premanand.streamlit.app)
 
-**Live Demo (Part 10):** https://github.com/user-attachments/assets/dd74e6c1-a8f0-4e4b-a657-d7bb2b8990e5
-
-
+**Live Demo (Part 10):** [Uploading video_no_audio.mp4…](https://github.com/user-attachments/assets/45d2f98e-94b9-41b4-a4ff-d145ea6a6dec)
 ---
 
 ## Repository Structure:
