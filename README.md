@@ -7,7 +7,7 @@ This repository documents a progressive, self-taught journey applying Python to 
 
 **Live App (Part 10):** [project-1-monte-carlo-simulation-model-siddharth-premanand.streamlit.app](https://project-1-monte-carlo-simulation-model-siddharth-premanand.streamlit.app)
 
-**Live Demo (Part 10):** [project-1-monte-carlo-demo](https://github.com/user-attachments/assets/45d2f98e-94b9-41b4-a4ff-d145ea6a6dec)
+**Live Demo (Part 10):** **[project-1-monte-carlo-demo](https://github.com/user-attachments/assets/45d2f98e-94b9-41b4-a4ff-d145ea6a6dec)**
 ---
 
 ## Repository Structure:
